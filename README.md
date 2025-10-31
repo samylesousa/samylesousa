@@ -57,8 +57,7 @@ Currently focusing on **Data Analysis** and **Data Science**, I’m continuously
 
 ## 📫 Contact
 
-- **LinkedIn:** [https://www.linkedin.com/in/samylesousa](https://www.linkedin.com/in/samylesousa/)  
-- **Email:** <your-email>  
+- **Linkedin:** [https://www.linkedin.com/in/samylesousa](https://www.linkedin.com/in/samylesousa/)  
 
 ---
 
