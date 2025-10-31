@@ -31,6 +31,12 @@ Currently focusing on **Data Analysis** and **Data Science**, I’m continuously
 **Databases:** MySQL, PostgreSQL, SQLite  
 **Other Tools:** Git, Jupyter Notebook, Power BI, Excel, Tableau  
 
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samylesousa&layout=compact&theme=tokyonight)
+
+<!--
+
 ## 📂 Featured Projects
 
 | Project | Description | Technologies |
@@ -38,16 +44,11 @@ Currently focusing on **Data Analysis** and **Data Science**, I’m continuously
 | [⚾ Baseball Data Analysis](https://github.com/samylesousa/baseball) | Exploratory analysis of baseball statistics to identify performance patterns across teams and players. | Python, Pandas, Matplotlib, Numpy |
 | [🎥 Movies Data Analysis](https://github.com/samylesousa/movies_imdb) | A project analyzing film data, focused on predicting ratings. | Python, Pandas, Matplotlib, Sklearn, Numpy |
 
-## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samylesousa&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Contact
 
-- **Linkedin:** [https://www.linkedin.com/in/samylesousa](https://www.linkedin.com/in/samylesousa/)  
-
----
+- **Linkedin:** [https://www.linkedin.com/in/samylesousa](https://www.linkedin.com/in/samylesousa/) 
 
 ⭐ *Always exploring new ways to make data meaningful.*
+--!>
