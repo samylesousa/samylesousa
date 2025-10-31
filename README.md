@@ -23,7 +23,7 @@ Currently focusing on **Data Analysis** and **Data Science**, I’m continuously
 ---
 
 ## 🧠 About Me
-- 🎓 Background in <Software Development, e.g., Computer Engineering>.  
+- 🎓 Background in Software Development, e.g., Computer Engineering.  
 - 📊 Interested in analytics, data storytelling, and decision-making through data.  
 - 🚀 Currently working on personal projects to strengthen my portfolio in data analysis.  
 - 🌱 Constantly learning data techniques and modern tools in the Python ecosystem.
@@ -51,7 +51,6 @@ Currently focusing on **Data Analysis** and **Data Science**, I’m continuously
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samylesousa&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samylesousa&show_icons=true&theme=tokyonight)
 
 ---
 
